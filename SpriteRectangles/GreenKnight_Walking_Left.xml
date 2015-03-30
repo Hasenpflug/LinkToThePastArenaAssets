@@ -1,0 +1,18 @@
+<FrameAnimation>
+  <SpriteRectangle>
+       <FrameNumber>0</FrameNumber>
+       <FrameSpritesheet>C:/TEMP/SpriteRectangleBuilder/SpriteRectangleBuilder/EnemiesSpriteSheet1.png</FrameSpritesheet>
+       <FrameXLocation>179</FrameXLocation>
+       <FrameYLocation>43</FrameYLocation>
+       <GridFrameWidth>19</GridFrameWidth>
+       <GridFrameHeight>29</GridFrameHeight>
+   </SpriteRectangle>
+  <SpriteRectangle>
+       <FrameNumber>1</FrameNumber>
+       <FrameSpritesheet>C:/TEMP/SpriteRectangleBuilder/SpriteRectangleBuilder/EnemiesSpriteSheet1.png</FrameSpritesheet>
+       <FrameXLocation>201</FrameXLocation>
+       <FrameYLocation>43</FrameYLocation>
+       <GridFrameWidth>19</GridFrameWidth>
+       <GridFrameHeight>29</GridFrameHeight>
+   </SpriteRectangle>
+</FrameAnimation>

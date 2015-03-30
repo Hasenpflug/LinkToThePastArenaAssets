@@ -1,0 +1,10 @@
+<FrameAnimation>
+  <SpriteRectangle>
+       <FrameNumber>0</FrameNumber>
+       <FrameSpritesheet>C:/TEMP/SpriteRectangleBuilder/SpriteRectangleBuilder/LargeOpenGrassArea.png</FrameSpritesheet>
+       <FrameXLocation>1</FrameXLocation>
+       <FrameYLocation>1</FrameYLocation>
+       <GridFrameWidth>506</GridFrameWidth>
+       <GridFrameHeight>506</GridFrameHeight>
+   </SpriteRectangle>
+</FrameAnimation>

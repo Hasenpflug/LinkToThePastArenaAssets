@@ -1,0 +1,10 @@
+<FrameAnimation>
+  <SpriteRectangle>
+       <FrameNumber>0</FrameNumber>
+       <FrameSpritesheet>C:/TEMP/SpriteRectangleBuilder/SpriteRectangleBuilder/LinkSpriteSheet1.png</FrameSpritesheet>
+       <FrameXLocation>855</FrameXLocation>
+       <FrameYLocation>127</FrameYLocation>
+       <GridFrameWidth>17</GridFrameWidth>
+       <GridFrameHeight>24</GridFrameHeight>
+   </SpriteRectangle>
+</FrameAnimation>
