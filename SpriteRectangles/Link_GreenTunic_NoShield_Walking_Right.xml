@@ -1,58 +1,58 @@
 <FrameAnimation>
   <SpriteRectangle>
        <FrameNumber>0</FrameNumber>
-	   <FrameSpritesheet>C:/TEMP/SpriteRectangleBuilder/SpriteRectangleBuilder/LinkSpriteSheet1.png</FrameSpritesheet>
-       <FrameXLocation>785</FrameXLocation>
-       <FrameYLocation>127</FrameYLocation>
-       <GridFrameWidth>17</GridFrameWidth>
+       <FrameSpritesheet>C:/TEMP/LinkToThePastArenaAssets/LinkToThePastArenaAssets/Textures/LinkSpriteSheet1.png</FrameSpritesheet>
+       <FrameXLocation>787</FrameXLocation>
+       <FrameYLocation>157</FrameYLocation>
+       <GridFrameWidth>19</GridFrameWidth>
        <GridFrameHeight>24</GridFrameHeight>
    </SpriteRectangle>
   <SpriteRectangle>
        <FrameNumber>1</FrameNumber>
-	   <FrameSpritesheet>C:/TEMP/SpriteRectangleBuilder/SpriteRectangleBuilder/LinkSpriteSheet1.png</FrameSpritesheet>
-       <FrameXLocation>808</FrameXLocation>
-       <FrameYLocation>126</FrameYLocation>
-       <GridFrameWidth>17</GridFrameWidth>
-       <GridFrameHeight>25</GridFrameHeight>
+       <FrameSpritesheet>C:/TEMP/LinkToThePastArenaAssets/LinkToThePastArenaAssets/Textures/LinkSpriteSheet1.png</FrameSpritesheet>
+       <FrameXLocation>810</FrameXLocation>
+       <FrameYLocation>156</FrameYLocation>
+       <GridFrameWidth>19</GridFrameWidth>
+       <GridFrameHeight>24</GridFrameHeight>
    </SpriteRectangle>
   <SpriteRectangle>
        <FrameNumber>2</FrameNumber>
-	   <FrameSpritesheet>C:/TEMP/SpriteRectangleBuilder/SpriteRectangleBuilder/LinkSpriteSheet1.png</FrameSpritesheet>
-       <FrameXLocation>833</FrameXLocation>
-       <FrameYLocation>126</FrameYLocation>
-       <GridFrameWidth>17</GridFrameWidth>
-       <GridFrameHeight>25</GridFrameHeight>
+       <FrameSpritesheet>C:/TEMP/LinkToThePastArenaAssets/LinkToThePastArenaAssets/Textures/LinkSpriteSheet1.png</FrameSpritesheet>
+       <FrameXLocation>835</FrameXLocation>
+       <FrameYLocation>156</FrameYLocation>
+       <GridFrameWidth>20</GridFrameWidth>
+       <GridFrameHeight>24</GridFrameHeight>
    </SpriteRectangle>
   <SpriteRectangle>
        <FrameNumber>3</FrameNumber>
-	   <FrameSpritesheet>C:/TEMP/SpriteRectangleBuilder/SpriteRectangleBuilder/LinkSpriteSheet1.png</FrameSpritesheet>
-       <FrameXLocation>855</FrameXLocation>
-       <FrameYLocation>127</FrameYLocation>
-       <GridFrameWidth>17</GridFrameWidth>
+       <FrameSpritesheet>C:/TEMP/LinkToThePastArenaAssets/LinkToThePastArenaAssets/Textures/LinkSpriteSheet1.png</FrameSpritesheet>
+       <FrameXLocation>857</FrameXLocation>
+       <FrameYLocation>157</FrameYLocation>
+       <GridFrameWidth>20</GridFrameWidth>
        <GridFrameHeight>24</GridFrameHeight>
    </SpriteRectangle>
   <SpriteRectangle>
        <FrameNumber>4</FrameNumber>
-	   <FrameSpritesheet>C:/TEMP/SpriteRectangleBuilder/SpriteRectangleBuilder/LinkSpriteSheet1.png</FrameSpritesheet>
-       <FrameXLocation>879</FrameXLocation>
-       <FrameYLocation>126</FrameYLocation>
-       <GridFrameWidth>17</GridFrameWidth>
-       <GridFrameHeight>25</GridFrameHeight>
+       <FrameSpritesheet>C:/TEMP/LinkToThePastArenaAssets/LinkToThePastArenaAssets/Textures/LinkSpriteSheet1.png</FrameSpritesheet>
+       <FrameXLocation>881</FrameXLocation>
+       <FrameYLocation>156</FrameYLocation>
+       <GridFrameWidth>20</GridFrameWidth>
+       <GridFrameHeight>24</GridFrameHeight>
    </SpriteRectangle>
   <SpriteRectangle>
        <FrameNumber>5</FrameNumber>
-	   <FrameSpritesheet>C:/TEMP/SpriteRectangleBuilder/SpriteRectangleBuilder/LinkSpriteSheet1.png</FrameSpritesheet>
-       <FrameXLocation>903</FrameXLocation>
-       <FrameYLocation>126</FrameYLocation>
-       <GridFrameWidth>17</GridFrameWidth>
-       <GridFrameHeight>25</GridFrameHeight>
+       <FrameSpritesheet>C:/TEMP/LinkToThePastArenaAssets/LinkToThePastArenaAssets/Textures/LinkSpriteSheet1.png</FrameSpritesheet>
+       <FrameXLocation>905</FrameXLocation>
+       <FrameYLocation>156</FrameYLocation>
+       <GridFrameWidth>19</GridFrameWidth>
+       <GridFrameHeight>24</GridFrameHeight>
    </SpriteRectangle>
   <SpriteRectangle>
        <FrameNumber>6</FrameNumber>
-	   <FrameSpritesheet>C:/TEMP/SpriteRectangleBuilder/SpriteRectangleBuilder/LinkSpriteSheet1.png</FrameSpritesheet>
-       <FrameXLocation>925</FrameXLocation>
-       <FrameYLocation>127</FrameYLocation>
-       <GridFrameWidth>18</GridFrameWidth>
+       <FrameSpritesheet>C:/TEMP/LinkToThePastArenaAssets/LinkToThePastArenaAssets/Textures/LinkSpriteSheet1.png</FrameSpritesheet>
+       <FrameXLocation>927</FrameXLocation>
+       <FrameYLocation>157</FrameYLocation>
+       <GridFrameWidth>20</GridFrameWidth>
        <GridFrameHeight>24</GridFrameHeight>
    </SpriteRectangle>
 </FrameAnimation>
